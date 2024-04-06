@@ -21,6 +21,24 @@
 **Multiple JButton Click to change background color**
 ![image](https://github.com/shakeel143/Java-Swing-Projects/assets/52729783/284910d7-9b8f-4462-9e88-bb4804603c76)
 
+# 6.CAL.java 
+**Simple Calculator in java**
+has some calculation bugs.
+![image](https://github.com/shakeel143/Java-Swing-Projects/assets/52729783/80f2b72b-bc15-42c9-9232-934314578ed6)
+
+# 7.CB.java 
+**Simple Checkbox**
+![image](https://github.com/shakeel143/Java-Swing-Projects/assets/52729783/57bc4a5f-660c-4498-9523-830a93e23092)
+
+# 9.CL.java 
+**Simple Calculator**
+![image](https://github.com/shakeel143/Java-Swing-Projects/assets/52729783/6e55a4c0-9909-4a1f-9440-0200fe68380c)
+
+# 10.IL.java 
+**JComboBox**
+![image](https://github.com/shakeel143/Java-Swing-Projects/assets/52729783/30482d12-4870-479a-96d7-fac29f23fb2c)
+
+
 
 
 
